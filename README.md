@@ -13,19 +13,13 @@
 </div>
 
 ### :man_technologist: About Me :
-My name is Vladislav and I am Front-End developer from Russia.
-
-<h5>
-
+- My name is Vladislav and I am Front-End developer from Russia.
 - I am studying front-end development for about 2 years.
-- Most of  my experience I gained from The Rolling Scopes courses and Yandex summer schools.
-- I have development experience in a team (2 and 3 developers)
+- Most of  my experience I gained from online courses and self-education.
 - Best way to reach me is through telegram:
   <a href="https://t.me/Liester">
     <img src="https://img.shields.io/badge/@Liester-2CA5E0?&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
-
-</h5>
 
 ---
 
